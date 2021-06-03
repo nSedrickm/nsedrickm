@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/nsedrickm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nsedrickm" height="30" width="40" /></a>
-<a href="https://twitter.com/nsedrickm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="nsedrickm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ngwa-sedrick-meh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ngwa-sedrick-meh/" height="30" width="40" /></a>
+<a href="https://twitter.com/nsedrickm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/15856785/120570788-ca733200-c410-11eb-907b-95d7e732103d.png" alt="nsedrickm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ngwa-sedrick-meh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/15856785/120571032-348bd700-c411-11eb-8178-b36e6a845128.png" alt="https://www.linkedin.com/in/ngwa-sedrick-meh/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
