@@ -1,49 +1,55 @@
-### Hi there 👋
+# Hi 👋, I'm Sedrick
 
-<!--
-**nSedrickm/nsedrickm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to "meet" you! 🤝. I live on the web-side 🌐 of the software spectrum and absolutely enjoy working with web technologies
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on myself, [SMSWithoutborders](https://github.com/smswithoutborders/)
 
-<h1 align="center">Hi 👋, I'm Sedrick</h1>
-<h3 align="center">A passionate software developer</h3>
+- 🌱 I’m currently learning **Reactjs, Typescript, Project Management and Algorithms/Data Structures**
 
-<p align="left"> <a href="https://twitter.com/nsedrickm" target="blank"><img src="https://img.shields.io/twitter/follow/nsedrickm?logo=twitter&style=for-the-badge" alt="nsedrickm" /></a> </p>
+- 👯 I’m looking to collaborate on more open-source React.js projects
 
-- 🔭 I’m currently working on [SMSWithoutborders](https://github.com/smswithoutborders/)
-
-- 🌱 I’m currently learning **React, Angular, Go, Design systems**
-
-- 👯 I’m looking to collaborate on [Rogue](github.com/afkanerd/Rogue)
-
-- 👨‍💻 All of my projects are available at [https://nsedrickm-ezky8.ondigitalocean.app/](https://nsedrickm-ezky8.ondigitalocean.app/)
-
-- 📝 I regularly write articles on [https://dev.to/nsedrickm](https://dev.to/nsedrickm)
-
-- 💬 Ask me about **Javascript, React, Angular, Php, NodeJs, Bash, Linux**
+- 💬 Ask me about **Javascript, React, Web Development**
 
 - 📫 How to reach me **nsedrick101@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C2CfZJkhtuGQ0rOhn1JMR64ylKyjzGrq/view?usp=sharing](https://drive.google.com/file/d/1C2CfZJkhtuGQ0rOhn1JMR64ylKyjzGrq/view?usp=sharing)
+- ⚡ Fun fact **In 2017 I went to university to learn hardware maintenance and found coding along the way. Were here now 😀**
 
-- ⚡ Fun fact **I enjoy FPS gaming, Reading on Quora and dev.to**
+## Bag of tricks
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+To name a few ...
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/nsedrickm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="nsedrickm" height="30" width="40" /></a>
-<a href="https://twitter.com/nsedrickm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/15856785/120570788-ca733200-c410-11eb-907b-95d7e732103d.png" alt="nsedrickm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ngwa-sedrick-meh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/15856785/120571032-348bd700-c411-11eb-8178-b36e6a845128.png" alt="https://www.linkedin.com/in/ngwa-sedrick-meh/" height="30" width="40" /></a>
-</p>
+<div>
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC??style=for-the-badge&logo=redux&logoColor=white"  height="25" />
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC??style=for-the-badge&logo=typescript&logoColor=white"  height="25" />
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8??style=for-the-badge&logo=react&logoColor=white"  height="25" />
+<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE??style=for-the-badge&logo=insomnia&logoColor=white"  height="25" />
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098??style=for-the-badge&logo=heroku&logoColor=white"  height="25" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699??style=for-the-badge&logo=sass&logoColor=white"  height="25" />
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092??style=for-the-badge&logo=styled-components&logoColor=white"  height="25" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032??style=for-the-badge&logo=git&logoColor=white"  height="25" />
+<img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031??style=for-the-badge&logo=angular&logoColor=white"  height="25" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837??style=for-the-badge&logo=npm&logoColor=white"  height="25" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26??style=for-the-badge&logo=html5&logoColor=white"  height="25" />
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d??style=for-the-badge&logo=Node.js&logoColor=white"  height="25" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nsedrickm&show_icons=true&locale=en&layout=compact" alt="nsedrickm" /></p>
+What i've been doing @here
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nsedrickm&show_icons=true&locale=en" alt="nsedrickm" /></p>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=nsedrickm&show_icons=true&locale=en" alt="nsedrickm" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nsedrickm&" alt="nsedrickm" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nsedrickm&" alt="nsedrickm" />
+</div>
+
+
+## Connect with me
+
+While you're here, lets get to know each other. I am always happy to make new friends
+
+<div>
+<a href="https://github.com/nsedrickm" target="_blank">
+<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/nsedrickm" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ngwa-sedrick-meh/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
