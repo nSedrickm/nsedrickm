@@ -1,8 +1,8 @@
 # Hi 👋, I'm Sedrick
 
-Nice to "meet" you! 🤝. I live on the web-side 🌐 of the software spectrum and absolutely enjoy working with web technologies
+Nice to "meet" you! 🤝. I live on the web development side 🌐 of the software spectrum and absolutely enjoy working with web technologies
 
-- 🔭 I’m currently working on myself, [SMSWithoutborders](https://github.com/smswithoutborders/)
+- 🔭 I’m currently working on myself
 
 - 🌱 I’m currently learning **Reactjs, Typescript, Project Management and Algorithms/Data Structures**
 
@@ -12,7 +12,7 @@ Nice to "meet" you! 🤝. I live on the web-side 🌐 of the software spectrum a
 
 - 📫 How to reach me **nsedrick101@gmail.com**
 
-- ⚡ Fun fact **In 2017 I went to university to learn hardware maintenance and found coding along the way. Were here now 😀**
+- ⚡ Fun fact **In 2017 I went to university to learn hardware maintenance and found coding along the way. We're here now 😀**
 
 ## Bag of tricks
 
@@ -35,7 +35,7 @@ To name a few ...
 
 ## Statistics
 
-What i've been doing @here
+What I've been doing @here
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=nsedrickm&show_icons=true&locale=en" alt="nsedrickm" />
@@ -46,7 +46,7 @@ What i've been doing @here
 
 ## Connect with me
 
-While you're here, lets get to know each other. I am always happy to make new friends
+While you're here, let's get to know each other. I am always open to having engaging discussions
 
 <div>
 <a href="https://github.com/nsedrickm" target="_blank">
